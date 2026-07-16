@@ -1,20 +1,20 @@
-# Core Data Manipulation
+# ---Core Data Manipulation---
 
-pandas2.1.4
-numpy1.26.4
+pandas==2.1.4
+numpy==1.26.4
 
-# Machine Learning & Statistical Modeling
+# ---Machine Learning & Statistical Modeling---
 
-scikit-learn1.3.2
-lightgbm4.3.0
-lifelines0.28.0
-joblib1.3.2
+scikit-learn==1.3.2
+lightgbm==4.3.0
+lifeline==0.28.0
+joblib==1.3.2
 
-# Visualization
+# ---Visualization---
 
-matplotlib3.8.2
-seaborn0.13.2
+matplotlib==3.8.2
+seaborn==0.13.2
 
-# File Export Utilities
+# ---File Export Utilities---
 
 openpyxl==3.1.2
